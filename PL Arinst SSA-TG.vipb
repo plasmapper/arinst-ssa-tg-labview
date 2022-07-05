@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-29 21:44:05" Creator="Researcher" Comments="" ID="fc0b62b891ca5898971cb05eedb9e791">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-07-05 14:30:40" Creator="Researcher" Comments="" ID="c8beeba9bcbe66379cf39519baa095b3">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Arinst_SSA_TG</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -40,7 +40,7 @@ Features
       <Copyright/>
       <Packager>plasmapper</Packager>
       <URL>https://github.com/plasmapper/arinst-ssa-tg-labview</URL>
-      <Release_Notes/>
+      <Release_Notes>Initial release.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -287,7 +287,7 @@ Features
         <Path>Public\Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6E9CC322097A7969009F6BA1390818EA</GUID>
+      <GUID>BF330673D96F96EBCCFB03D41695BF65</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -336,7 +336,7 @@ Features
         <Path>Public\Configure\Configure Generator Power.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4BAC9AE059431DB95841A9476885F49B</GUID>
+      <GUID>669586D5AED61BD2CF11DCC012D7073C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -385,7 +385,7 @@ Features
         <Path>Public\Action-Status\Turn Generator On.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>731A4DA35F543A035EEDA1CBF586F600</GUID>
+      <GUID>46C1A15E27F120B3A49A3006040B9CAE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -420,7 +420,7 @@ Features
         <Path>Public\Data\Scan.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4A8B0E52AF0A7CA8BA91AF6D62AE0F7D</GUID>
+      <GUID>EEC3477A606F015C835DA177AB16AADF</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
