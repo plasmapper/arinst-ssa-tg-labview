@@ -6,6 +6,9 @@ Tested on Arinst SSA-TG.
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_arinst_ssa_tg/)
+
 ## Features
 1. Configure generator frequency and power.
 2. Turn generator on/off.
