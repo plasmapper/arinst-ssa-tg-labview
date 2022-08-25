@@ -1,6 +1,4 @@
-# Arinst SSA-TG Series Library for LabVIEW
-LabVIEW instrument driver for Arinst SSA-TG series spectrum analyzers.
-
+# LabVIEW Instrument Driver for Arinst SSA-TG Series Spectrum Analyzers
 Tested on Arinst SSA-TG.
 
 ## Requirements
